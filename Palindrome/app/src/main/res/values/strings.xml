@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Palindrome</string>
+
+    <string name="hello_world">Palindrome</string>
+    <string name="action_settings">Settings</string>
+    <string name="instructions">A palindrome is a word, phrase, number, or other sequence of characters which reads the same backward or forward</string>
+    <string name="validate_btn">Validate</string>
+    <string name="hint_Str">enter a palindrome</string>
+
+</resources>
