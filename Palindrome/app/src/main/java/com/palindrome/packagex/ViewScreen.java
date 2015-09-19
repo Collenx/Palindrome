@@ -13,7 +13,7 @@ import android.widget.Toast;
 
 
 public class ViewScreen extends Activity implements View.OnClickListener {
-
+    //creating UI
     EditText plndEdittext;
     Button Vbtn;
     @Override
@@ -25,7 +25,7 @@ public class ViewScreen extends Activity implements View.OnClickListener {
         Vbtn.setOnClickListener(this);
 
     }
-
+    //onclick event for button and Validating input
     public void onClick(View v)
     {
         String palindromeW = plndEdittext.getText().toString();

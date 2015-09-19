@@ -4,4 +4,4 @@
     <item android:id="@+id/action_settings" android:title="@string/action_settings"
         android:orderInCategory="100" app:showAsAction="never" />
 </menu>
-<!-- From: file:/C:/Users/masulukec.VF-ROOT/AndroidStudioProjects/Palindrome/app/src/main/res/menu/menu_view.xml -->
+<!-- From: file:/C:/Users/masulukec.VF-ROOT/AndroidStudioProjects/Palindrome/Palindrome/app/src/main/res/menu/menu_view.xml -->
